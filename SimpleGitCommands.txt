@@ -1,0 +1,5 @@
+Git commands are used for various purpose.
+I am trying it onto my local machine.
+It is very helpful to me to understand git services.
+Thanks You
+Sanika
